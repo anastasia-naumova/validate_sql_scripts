@@ -7,6 +7,7 @@
 Для проверки валидности файлов необходимо подключение к базе данных postgres.
 Для подключения необходимо указать:
 
+
   name_database = "db_name",
   name_user = "db_user",
   db_password = "db_password",
